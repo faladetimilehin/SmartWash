@@ -72,7 +72,7 @@ export default function Login () {
         <div className={classes.paper}>
           <Avatar className={classes.avatar}>
             <LockOutlinedIcon />
-          </Avatar>
+          </Avatar><h2 >Smart Wash</h2>
           <Typography component="h1" variant="h5">
             Sign in
           </Typography>

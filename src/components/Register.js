@@ -102,7 +102,29 @@ export default function Register() {
                 label="Phone Number"
                 type="phonenumber"
                 id="phonenumber"
-                autoComplete="current-password"
+                autoComplete="current-git"
+              />
+            </Grid>
+            <Grid item xs={12}>
+              <TextField
+                variant="outlined"
+                required
+                fullWidth
+                id="address"
+                label="Address"
+                name="address"
+                autoComplete="address"
+              />
+            </Grid>
+            <Grid item xs={12}>
+              <TextField
+                variant="outlined"
+                required
+                fullWidth
+                id="addCar"
+                label="Add Car"
+                name="addCar"
+                autoComplete="addCar"
               />
             </Grid>
             <Grid item xs={12}>

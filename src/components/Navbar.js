@@ -8,7 +8,7 @@ return(
     <nav class="my-2 my-md-0 mr-md-3">
         <NavLink className="p-2 text-dark" to="/home">Home</NavLink>
         <NavLink className="p-2 text-dark" to="/about">About</NavLink>
-        <NavLink className="p-2 text-dark" to="#">Services</NavLink>
+        <NavLink className="p-2 text-dark" to="/services">Services</NavLink>
         <NavLink className="p-2 text-dark" to="/contact">Contact</NavLink>
     </nav>
     <a class="btn btn-outline-primary" href="/login">Login</a>
