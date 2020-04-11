@@ -1,0 +1,20 @@
+.img{
+    background-image: url("./img/car03.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+
+  }
+  
+.text-middle{
+
+
+    color: aliceblue;
+    display: block;
+    display: table-cell;
+    width: 100vw;
+    height: 50vw;
+    vertical-align: middle;
+
+}
